@@ -7,7 +7,6 @@ Forecasting future demand is one of the most important applications of Time Seri
 The project demonstrates trend analysis, seasonal pattern detection, moving averages, ARIMA forecasting, and model evaluation using real-world time-series data.
 
 ---
-
 ## 🎯 Project Goals
 
 * Analyze historical passenger traffic.
