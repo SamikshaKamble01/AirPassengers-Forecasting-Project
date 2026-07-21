@@ -122,8 +122,6 @@ numpy
 matplotlib
 statsmodels
 scikit-learn
-
-
 ## 👩‍💻 Author
 
 **Samiksha Kamble**
